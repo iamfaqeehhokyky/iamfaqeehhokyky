@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sulaimon Okikiola
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python (Djngo framework)
+- 👀 I’m interested in Software Development role
+- 🌱 I’m currently learning Python (Django framework)
 - 💞️ I’m looking to collaborate on any Front-end Web Dev. Job
 - 📫 Feel free to reach out to me on /@iamfaqeehhokyky on all social media or +234(0)8096737760
 
