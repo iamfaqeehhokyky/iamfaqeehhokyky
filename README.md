@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sulaimon Okikiola
 - 🌱 I’m a Python Developer
 - 👀 I’m interested in Software Development role
-- 💞️ I’m looking to collaborate on any Web Dev. Role
+- 💞️ I’m looking to collaborate on any Fullstack Web Dev. Role
 - 📫 Feel free to reach out to me on /@iamfaqeehhokyky on all social media
 
 <!---
